@@ -1,2 +1,1 @@
-# PrepCurse-Henry
-Este es un prepositorio del modulo 2 de Henry2
+Este proecto es una prueba de como crear un repositorio y clonarlo desde GihHub a la computadora 
